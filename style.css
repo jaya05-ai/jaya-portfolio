@@ -297,7 +297,9 @@ section {
   .navbar {
     flex-direction: column;
     gap: 10px;
-    padding: 12px 5%;
+    padding: 12px 5%;    
+    border-bottom: none;
+    box-shadow: none ;
   }
 
   .logo {
@@ -341,4 +343,5 @@ section {
     font-size: 14px;
   }
 }
+
 
